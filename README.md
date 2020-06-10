@@ -1,5 +1,5 @@
 # Control_Systems_Solver
-This repo is a collection of functions and tools that will help solving control systems problems.
+This repo is a collection of functions and tools that will help solve control systems problems.
 It is based on 2nd order approximations.
 
 To use, open the jupyter notebook file PID_designer_notebook.ipynb, and run the code cells in it to be able to solve:
